@@ -4,6 +4,7 @@ The analysis aims to:<br>
 1.	Examine Price Trends and Volatility: Understand historical price movements and market volatility across various time frames.
 2.	Identify Relationships Between Variables: Analyze correlations between factors such as trading volume, stock prices, and overall market trends to uncover dependencies.
 3.	Prepare Data for Predictive Modeling: Engineer features and clean data to create a foundation for implementing advanced models like Long Short-Term Memory (LSTM) networks.<br>
+
 The project began with comprehensive data preprocessing to address challenges like missing values, duplicate records, and outliers. Advanced visualization techniques, such as candlestick charts and moving averages, were employed to represent time series data effectively. Correlation matrices and heatmaps helped identify relationships between numerical variables. Statistical tools like volatility analysis, trend decomposition, and rolling statistics were used to gain deeper insights into market behaviors.<br>
 1.	Trend Analysis: Identified seasonal and long-term trends in stock prices, providing a clear understanding of cyclical market behavior.
 2.	Impact of Trading Volume: Demonstrated a strong correlation between trading volume and price movements, suggesting that volume can act as an indicator of market sentiment.
