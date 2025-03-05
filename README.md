@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-and-Forecasting-Using-LSTM
+# Time Series Analysis for Stock Market Prediction
 This project focuses on conducting an in-depth exploratory data analysis (EDA) of historical stock market data to identify meaningful patterns, trends, and relationships that can support accurate forecasting and decision-making. The dataset used comprises detailed historical stock price records of HDFC Company from 2000 to 2021, including key variables such as opening and closing prices, high and low prices, trading volumes, and dates.<br>
 The analysis aims to:<br>
 1.	Examine Price Trends and Volatility: Understand historical price movements and market volatility across various time frames.
